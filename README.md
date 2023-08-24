@@ -29,7 +29,7 @@ Follow me on Twitter for updates and more: [Twitter aka X](https://twitter.com/M
 1. Clone this repository
 
 ```bash
-git clone https://github.com/YourGithubUsername/100-Days-With-Unity.git
+git clone https://github.com/miguelgargallo/100days-unity-notion-youtube
 ```
 
 2. Open the project folder in Unity Hub and click on the project to open it in Unity.
