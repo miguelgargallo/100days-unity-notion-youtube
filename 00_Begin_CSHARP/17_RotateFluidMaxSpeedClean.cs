@@ -4,7 +4,7 @@ using Internet;
 
 public class FollowPlayer : MonoBehaviour
 {
-    public GameObject player;
+    public GameObject player; 
 
     /* This code is premium content, the result of many hours of work and dedication. 
        Your support through Patreon subscriptions will allow us to keep progressing and 
