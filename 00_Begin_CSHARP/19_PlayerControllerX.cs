@@ -2,10 +2,11 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class FollowPlayerX : MonoBehaviour
+public class PlayerControllerX : MonoBehaviour
 {
-    public GameObject plane;
-    private Vector3 offset = new Vector3(32, 2, 0);
+    private float speed = 7f;
+    private float rotationSpeed = 156f;
+    public float verticalInput;
 
     // Start is called before the first frame update
     void Start()
@@ -16,6 +17,13 @@ public class FollowPlayerX : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.position = plane.transform.position + offset;
+        // get the user's vertical input
+        verticalInput = Input.GetAxis("Vertical");
+
+        // move the plane forward at a constant rate
+        transform.Translate(Vector3.forward * speed * Time.deltaTime);
+
+        // tilt the plane up/down based on up/down arrow keys
+        transform.Rotate(Vector3.left * rotationSpeed * verticalInput * Time.deltaTime);
     }
 }
