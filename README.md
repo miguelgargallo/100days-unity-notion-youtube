@@ -2,6 +2,8 @@
 
 Welcome to the GitHub repository for the "100 Days with Unity" Blog and YouTube series. This repository contains all the source code used in the blog articles and video tutorials, providing a hands-on approach to learning Unity game development.
 
+The [./Icons](./Icons/) folder have another License Inside, please check it out, you cannot use it for commercial purposes.
+
 ---
 
 ## 📝 The Blog (Diary Entries)
