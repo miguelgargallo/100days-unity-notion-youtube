@@ -1,28 +1,34 @@
-# 100 Days with Unity Blog and YouTube Series
+# 100 Days with Unity
 
-Welcome to the GitHub repository for the "100 Days with Unity" Blog and YouTube series. This repository contains all the source code used in the blog articles and video tutorials, providing a hands-on approach to learning Unity game development.
+🚀 **LIMITED TIME OFFERS! ACT NOW!**
+- 🔥 UNITY SPONSOR: CRAZY DISCOUNTS! DON'T MISS OUT!  
+  [UNITY DISCOUNTS!](https://assetstore.unity.com?aid=1101lGLI6)
+- 💣 NORDVPN: YOUR LAST CHANCE FOR 3 MONTHS FREE! SECURE NOW!  
+  [GET NORDVPN](https://ref.nordvpn.com/OfFmdFAPwue)
 
-The [./Icons](./Icons/) folder have another License Inside, please check it out, you cannot use it for commercial purposes.
+🔒 **EXCLUSIVES JUST FOR ELITES!**
+- 🌟 PATREON: UNLEASH WEEKLY EXCLUSIVE CONTENT! BE AN INSIDER!  
+  [JOIN NOW](https://patreon.com/mgar)
 
----
+📚 **GAIN UNFAIR ADVANTAGE! LEARN LIKE A PRO!**
+- 📘 NOTION BLOG & FREE VIDEOS: GET AHEAD OF EVERYONE ELSE!  
+  [VISIT BLOG](https://miguelgargallo.com)
+- 📙 100 DAYS WITH UNITY: GRAB THE DAILY INSIGHTS!  
+  [DIVE IN](https://bit.ly/3QKwrDw)
+- 📺 YOUTUBE NOTION PLAYLIST: BINGE-WATCH AND LEVEL UP!  
+  [WATCH NOW](https://bit.ly/unityserie)
 
-## 📝 The Blog (Diary Entries)
-For in-depth articles explaining the code, methodologies, and thought processes, check out the blog [here](https://bit.ly/3YEI9BH).
+🎓 **UNITY COURSES! LEARN FROM THE GODS!**
+- 🏆 UNITY LEARN: UNLOCK GAME-CHANGING SKILLS! FREE & PREMIUM!  
+  [START LEARNING](https://unity.com/learn-premium)
+- 🎲 ADDITIONAL COURSES: MASTER EVERY ASPECT!  
+  [EXPLORE COURSES](https://unity.com/learn/partner-courses)
 
-## 🎥 The YouTube Series
-Accompanying the blog is a YouTube series where you can see live coding sessions and explanations. Watch it [here](https://bit.ly/3qF3XR8).
-
-## 🔄 The Recap
-At the end of each day, there will be a recap to summarize what was learned. You can find these recaps [here](https://bit.ly/3YFUNQM).
-
-## 💾 The Code
-The source code for each day's project is inside Notion, which you can access [here](https://bit.ly/3YEI9BH).
-
-## 🌟 Support Me
-If you find this series helpful and would like to get access to secret codes and updates, consider supporting me on [Patreon](https://patreon.com/mgar).
-
-## 🐦 Twitter
-Follow me on Twitter for updates and more: [Twitter aka X](https://twitter.com/MiguelGargallo)
+💰 **DEVELOPERS! THIS IS YOUR GOLDEN TICKET!**
+- 🛒 INDIES: UNITY PLUS FOR JUST $37! INSANE VALUE!  
+  [GRAB NOW](https://store.unity.com/products/unity-plus)
+- 🚀 STARTUPS: SCALE FAST WITH UNITY PRO! ONLY $170! LAST CHANCE!  
+  [BUY NOW](https://store.unity.com/products/unity-pro)
 
 ---
 
@@ -39,28 +45,9 @@ git clone https://github.com/miguelgargallo/100days-unity-notion-youtube
 
 ---
 
-## Prerequisites
-
-- Unity 2020.3.0f1 or higher
-- Visual Studio or another compatible C# IDE
-
----
-
-## Contributing
-
-If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcomed.
-
----
-
 ## License
 
 The code in this repository is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-## Questions?
-
-If you have any questions or run into issues, please open an issue on this GitHub repository.
 
 ---
 
